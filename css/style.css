@@ -1,0 +1,14 @@
+.container.topBarNews {
+    background-color: #000000;
+    padding: 8px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 0;
+}
+.container p{
+    margin: 0;
+    color: #FFFFFF;
+    line-height: 2;
+    font-weight: 500;
+}
